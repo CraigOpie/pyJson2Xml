@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<roster>
+    <student>
+        <firstName>Doe</firstName>
+        <lastName>Jane</lastName>
+        <hwaverage>86.40</hwaverage>
+        <exam>91.20</exam>
+    </student>
+    <student>
+        <firstName>Doe</firstName>
+        <lastName>John</lastName>
+        <hwaverage>82.00</hwaverage>
+        <exam>84.40</exam>
+    </student>
+    <student>
+        <firstName>Gates</firstName>
+        <lastName>Bill</lastName>
+        <hwaverage>77.35</hwaverage>
+        <exam>94.30</exam>
+    </student>
+</roster>
